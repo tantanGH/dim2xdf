@@ -1,7 +1,5 @@
 import sys
 
-dim_name = "/Users/nakagawashigeyuki/Documents/X68K/GAME/PACLAND/Pac-Land (1994)(Dempa).dim"
-
 def read_dim_file(dim_name):
     with open(dim_name, "rb") as f:
         xdf_bytes = bytearray()
