@@ -20,7 +20,7 @@ setuptools.setup(
     ],
     entry_points={
         'console_scripts': [
-            'dim2xdf=dim2xdf.__main__:main'
+            'dim2xdf=dim2xdf.dim2xdf:main'
         ]
     },
     packages=setuptools.find_packages(),
