@@ -8,3 +8,7 @@ DIM image file to XDF image file converter with Python
 ### Usage
 
     dim2xdf <dim-file> <xdf-file>
+
+or
+
+    python -m dim2xdf <dim-file> <xdf-file>
