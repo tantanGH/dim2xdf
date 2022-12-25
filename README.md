@@ -9,6 +9,4 @@ DIM image file to XDF image file converter with Python
 
     dim2xdf <dim-file> <xdf-file>
 
-or
-
-    python -m dim2xdf <dim-file> <xdf-file>
+Note that you need to add dim2xdf installed folder to your PATH environment variable.
