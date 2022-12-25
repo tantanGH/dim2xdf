@@ -5,7 +5,7 @@ def read_dim_file(dim_name):
         xdf_bytes = bytearray()
         header_bytes = f.read(0x100)
         if header_bytes[0xab:0xaf] != bytes('DIFC',encoding='utf-8'):
-            print("not DIM format (dim_name)")
+            print(f"not DIM format {dim_name}")
             return None
         if header_bytes[0] != 0:
             print("unknown format.")
