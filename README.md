@@ -12,7 +12,7 @@ DM2XDFxxx.ZIP をダウンロードして展開し、DIM2XDF.X をパスの通�
 
 ---
 
-### Install (Python版)
+### インストール方法 (Python版)
 
     pip install git+https://github.com/tantanGH/dim2xdf.git
 
