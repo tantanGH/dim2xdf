@@ -33,3 +33,6 @@ def main():
     xdf_bytes = read_dim_file(sys.argv[1])
     if xdf_bytes != None:
         write_xdf_image(sys.argv[2],xdf_bytes)
+
+if __name__ == "__main__":
+    main()
