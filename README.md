@@ -30,14 +30,6 @@ Human68k版は、XDFファイル名を省略すると自動的にDIMファイル
 
 ---
 
-### Special Thanks
-
-* xdev68k thanks to ファミべのよっしんさん
-* HAS060.X on run68mac thanks to YuNKさん / M.Kamadaさん / GOROmanさん
-* HLK301.X on run68mac thanks to SALTさん / GOROmanさん
-
----
-
 ### History
 
 * 0.1.0 (2023/04/05) ... Human68k版追加
